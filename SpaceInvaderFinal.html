@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+   <html>
+   <head>
+      <meta charset="utf-8">
+      <title>Space Invaders</title>
+   <script src="SpaceInvaderFinal.js" type="text/javascript" defer> </script>
+   </head>
+<body onload="draw()">
+	<h1>Space Invader</h1>
+  <canvas id="myCanvas" height="600" width="700" style="border: 1px solid black"></canvas>
+  <div id="KillCount">
+      Kill Count is 0 
+  </div>
+  <br>
+  <button onclick = "start()">Start</button>
+  &nbsp;
+  <button onclick = "restart()">Restart</button>
+  <br>
+  <h3>
+     Mode
+  </h3>
+  <button onclick="regularChoice()">Regular</button>
+  &nbsp;
+  <button onclick="survivalChoice()">Survival</button>
+</body>
+</html>
