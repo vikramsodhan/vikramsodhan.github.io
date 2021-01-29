@@ -6,7 +6,7 @@ A remake of the classic game Space Invaders. This was done using vanillaJS.
 
 -- Warning: not modified for mobile users --
 
-Go [here](https://vikramsodhan.github.io/)
+Go [here](https://vikramsodhan.github.io/) to play
 
 To move use the left and right arrow keys.
 
