@@ -14,11 +14,13 @@ To shoot press or hold space bar.
 
 ## Classic Mode
 
-Have to shoot down 30 aliens before they reach the bottom.
+Hit the start button and you'll have to shoot down 30 aliens before they reach the bottom.
 
 ![Classic Mode Screenshot](Screenshots/Regular-Ex.png)
 
 ## Survival Mode
+
+Be sure to click on the survival button before pressing start
 
 Aliens will appear randomly and increase in speed the longer you survive
 
